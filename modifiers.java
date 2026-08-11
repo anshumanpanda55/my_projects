@@ -32,7 +32,7 @@ public class modifiers{
         int b = sc.nextInt();
         users obj1 = new users();
         obj1.setage(b);
-        System.out.println("Your name is: " + obj.getname());
+        System.out.println("Hello " + obj.getname());
         System.out.println("Your age is: " + obj1.getage());
     }
     }
