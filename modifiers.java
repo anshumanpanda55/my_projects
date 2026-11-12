@@ -34,6 +34,7 @@ public class modifiers{
         obj1.setage(b);
         System.out.println("Your name is: " + obj.getname());
         System.out.println("Your age is: " + obj1.getage());
+        sc.close();
     }
     }
 
