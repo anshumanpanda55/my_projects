@@ -19,4 +19,4 @@ System.out.println(total);
 System.out.println("your percentage is");
 float percentage=total/500*100;
 System.out.println(percentage);}}
-
+sc.close();
