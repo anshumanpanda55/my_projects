@@ -23,7 +23,7 @@ public class niven_numbers_between_range {
                 count++;
             }
         }
-     System.out.println("The numbers of niven numbers between "+x+" and "+y+" is: "+count);
+    System.out.println("The numbers of niven numbers between "+x+" and "+y+" is: "+count);
 
     
     }
